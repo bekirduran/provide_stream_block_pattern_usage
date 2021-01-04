@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896709385111",
+    "project_id": "flutter-state-management-60d62",
+    "storage_bucket": "flutter-state-management-60d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896709385111:android:aca0bc66ae94f9aed982d2",
+        "android_client_info": {
+          "package_name": "com.example.provider_state_kullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896709385111-9oe2sufnji2srshp6qer00qc9lao66vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhznrE8HfHyjS5dGN2kVFHoASIiFq-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896709385111-9oe2sufnji2srshp6qer00qc9lao66vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
